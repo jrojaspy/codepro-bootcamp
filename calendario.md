@@ -3,6 +3,7 @@ Día 0.1
 * Prompt Engineering
 * Domina tu PC
 
+
 Día 0.2
 * Pensamiento computacional
 * Github
